@@ -8,10 +8,8 @@ p{
 color:blue;
 }
 li{
-<<<<<<< HEAD
-    color:red;
-}
-=======
 color:green;
 }
->>>>>>> 58a1c2f23842a3d413ff35fb0a656a3122478311
+td{
+    color:yellow;
+}
